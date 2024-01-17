@@ -16,3 +16,5 @@ Soy Nazareno, un programador apasionado que siempre en busca de desafíos y opor
   - Experiencia en Node.js y bases de datos SQL.
   - Actualmente explorando Ruby y Python.
 
+💻 Proyectos:
+  -[https://nazasoto.github.io/Lista-de-Tareas/]
