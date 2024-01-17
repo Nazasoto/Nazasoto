@@ -7,7 +7,7 @@ Soy Nazareno, un programador apasionado que siempre en busca de desafíos y opor
 - 💡 Dispuesto a sumarme a cualquier proyecto para aprender y ganar experiencia.
 - 📫 Puedes contactarme a través de mi correo electrónico [sotonazareno16@gmail.com].
 
-⚡ Datos curiosos:
+⚡ Habilidades y Tecnologías:
   - Especializado en JavaScript y sus frameworks (React, Vue, Angular).
   - Experiencia en Node.js y bases de datos SQL.
   - Actualmente explorando Ruby y Python.
