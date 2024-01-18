@@ -1,6 +1,6 @@
 # ¡Hola! 👋🚀
 
-Soy Nazareno, un programador apasionado que siempre en busca de desafíos y oportunidades emocionantes.
+Soy Nazareno, un programador apasionado que siempre en busca de desafíos y oportunidades.
 
 - 🚀 Me encanta programar y explorar nuevas tecnologías.
 - 📚 Siempre estoy aprendiendo y mejorando mis habilidades.
