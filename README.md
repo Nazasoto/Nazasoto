@@ -18,4 +18,5 @@ Soy Nazareno, un programador apasionado que siempre en busca de desafíos y opor
 
 💻 Proyectos:
   -[https://nazasoto.github.io/Lista-de-Tareas/]
+  
   -[https://nazasoto.github.io/Proyecto-de-Gramatica/]
