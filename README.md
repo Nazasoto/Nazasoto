@@ -1,6 +1,6 @@
 # ¡Hola! 👋🚀
 
-Soy Nazareno, un programador apasionado que siempre en busca de desafíos y oportunidades.
+Soy Nazareno, un programador apasionado que siempre en busca de desafíos.
 
 - 🚀 Me encanta programar y explorar nuevas tecnologías.
 - 📚 Siempre estoy aprendiendo y mejorando mis habilidades.
@@ -13,11 +13,4 @@ Soy Nazareno, un programador apasionado que siempre en busca de desafíos y opor
 
 ⚡ Habilidades y Tecnologías:
   - Especializado en JavaScript y sus frameworks (React, Vue, Angular).
-  - Experiencia en Node.js y bases de datos SQL.
-  - Actualmente explorando Ruby y Python.
-
-💻 Proyectos:
-
-  -[https://nazasoto.github.io/Lista-de-Tareas/]
-  
-  -[https://nazasoto.github.io/Proyecto-de-Gramatica/]
+  - Actualmente explorando Python y SQL
