@@ -12,5 +12,5 @@ Soy Nazareno, siempre estoy en busca de desafíos.
   - En constante progresión y crecimiento como programador.
 
 ⚡ Habilidades y Tecnologías:
-  - Especializado en JavaScript y sus frameworks (React, Vue, Angular).
+  - Especializado en JavaScript y sus frameworks (React, Vue).
   - Actualmente usando SQL
